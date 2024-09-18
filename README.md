@@ -16,12 +16,5 @@ Sou apaixonado por aprender e explorar novas tecnologias. Gosto de trabalhar em 
 - ⚙️ Node.js
 - 🔥 React
 
-## Contato
 
-📧 [vitor.mayer@email.com](mailto:vitor.mayer@email.com)  
-🌐 [Meu Portfólio](https://seuportifolio.com)
-
----
-
-Vamos nos conectar e trocar ideias!
 
